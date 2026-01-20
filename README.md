@@ -54,3 +54,10 @@ The project is organized into two main sections:
 2. Navigate to the desired folder (`Analog_and_Digital_Communication` or `Digital_and_Signal_Processing`).
 3. Open the `.m` file you wish to run.
 4. Click the **Run** button or press **F5**.
+
+## 📝 Note for VS Code Users
+If you prefer to run these files within VS Code, ensure you have:
+1. A **Licensed MATLAB** installed on your system.
+2. The **[MATLAB Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)** installed.
+
+> **Recommendation:** While VS Code is excellent for editing, it is highly recommended to run these experiments directly in the **MATLAB IDE** for the best experience with figure plotting and debugging.
